@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex T. 
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML| CSS | Javascript | Bootstrap 5
+- 👀 I’m interested in C# ASP.NET CORE MVC
+- 🌱 I’m currently learning C#| HTML| CSS | Javascript | Bootstrap 5
 - 💞️ I’m looking to collaborate with anyone looking for help with documentation. Projects that are directed to helping those in need. 
 - 📫 How to reach me ... @learnwithbigalt 
 
